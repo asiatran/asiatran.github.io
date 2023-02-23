@@ -12,10 +12,12 @@ marquee{
 
 }
 
+
 .content {
     text-align: center;
     padding: 2rem;
     font-family: 'The Girl Next Door', sans-serif;
+    
 }
 
 h1{ 
@@ -27,11 +29,13 @@ h1, h2 {
 }
 
 
-.content__button{
+.content__bookmebutton{
     display: flex;
     justify-content: center;
     padding: 2rem;
 }
+
+
 
 
 .button-1 {

@@ -1,5 +1,41 @@
+
+
+
+
+marquee{
+    height: 18rem;
+}
+
+.headerimage {
+    width: auto;
+    height: 18rem;
+
+}
+
+.content {
+    text-align: center;
+    padding: 2rem;
+    font-family: 'The Girl Next Door', sans-serif;
+}
+
+h1{ 
+    font-size: 4rem;
+}
+
+h1, h2 {
+    padding: 2rem;
+}
+
+
+.content__button{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+
 .button-1 {
-    background-color: #EA4C89;
+    background-color: rgb(241, 157, 171);
     border-radius: 8px;
     border-style: none;
     box-sizing: border-box;
@@ -27,5 +63,6 @@
   
   .button-1:hover,
   .button-1:focus {
-    background-color: #F082AC;
+    background-color: #f784b0;
+    transition: 0.4s;
   }

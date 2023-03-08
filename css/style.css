@@ -2,9 +2,6 @@
 
 
 
-marquee{
-    height: 18rem;
-}
 
 
 
@@ -14,6 +11,17 @@ marquee{
     font-family: 'The Girl Next Door', sans-serif;
     
 }
+
+
+#img {
+    position: fixed;
+    top: 4rem;
+    left: 0;
+    width: auto;
+    height: auto;
+    background: url(../images/donut.gif);
+}
+
 
 h1{ 
     font-size: 4rem;
